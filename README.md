@@ -41,3 +41,13 @@ alignment, and adoption of the platform.
 - Knowledge platforms fail without strong governance and ownership
 - Adoption depends as much on workflows as on technology
 - Metadata quality is critical to long-term platform value
+
+## Architecture (High Level)
+- Centralized data lake and curated data warehouse serving as the system of record
+- Metadata and taxonomy layer for standardized classification of research assets
+- Vector database built on Azure to support semantic and contextual search
+- LLM-enabled contextual search and natural language querying (NLQ) over research content
+- Custom-built application layer for search, discovery, and user interaction
+- Integrated usage analytics and monitoring to track adoption and engagement
+- Governance and access controls to ensure data quality, security, and compliance
+
