@@ -31,6 +31,12 @@ alignment, and adoption of the platform.
 - Increased reuse of existing datasets and benchmarks
 - Improved consistency and quality of insights delivered to stakeholders
 
+##Measures of Success
+- Increased research content usage from 33% to 38% through improved discoverability
+- Improved Power BI platform adoption from 32% to 55% by enabling easier access to curated datasets
+- Increased reuse of existing research assets from 45% to 72%, reducing duplicated effort
+- Improved daily active usage, representing a ~40% increase in DAU through workflow-aligned access
+
 ## Key Learnings
 - Knowledge platforms fail without strong governance and ownership
 - Adoption depends as much on workflows as on technology
